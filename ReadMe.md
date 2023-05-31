@@ -2,9 +2,9 @@ Hello,
 
 Welcome to Social Media Analysis for EG.
 
-The code for it is present in the ipynb file. The File itself is not present.
+I have upload the python file which contains the cod ei used for analysis.
 
-Here is the Location of the actual Collab File.
+I have origially used google collaborator for faster iteration.
 
 https://colab.research.google.com/github/XEQTER5/SocialMediaAnalysis_EG/blob/main/SocialMediaAnalysis_EG.ipynb
 
