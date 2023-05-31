@@ -1,10 +1,10 @@
 Hello,
 
-Welcome to Social Media Analysis for EG.
+Thank you for providing me with this opportunity.
 
-I have upload the python file which contains the cod ei used for analysis.
+I have uploaded the python file which contains the code used in analysis.
 
-I have origially used google collaborator for faster iteration.
+I origially used google collaborator for faster iteration.
 
 https://colab.research.google.com/github/XEQTER5/SocialMediaAnalysis_EG/blob/main/SocialMediaAnalysis_EG.ipynb
 
